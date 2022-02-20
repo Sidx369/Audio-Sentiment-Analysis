@@ -1,2 +1,2 @@
 # Audio-Sentiment-Analysis
-Program to classify sentiment from audio files.
+Program to detect sentiment from audio files.
